@@ -1,0 +1,23 @@
+{
+  "name": "stock-strategist",
+  "version": "1.0.0",
+  "description": "股票价值投资分析系统 - 基于现金流折现、商业模式、企业文化的投资决策支持",
+  "main": "index.html",
+  "scripts": {
+    "serve": "docsify serve . --port 3000 --open",
+    "start": "docsify serve . --port 3000 --open",
+    "dev": "docsify serve . --port 3000 --open"
+  },
+  "keywords": [
+    "stock",
+    "investment",
+    "value-investing",
+    "analysis",
+    "docsify"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
