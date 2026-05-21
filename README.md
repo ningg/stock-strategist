@@ -127,4 +127,4 @@ npm run dev
 ---
 
 **最后更新**: 2026年3月27日
-# Agentic-Design-Patterns-CN
+
